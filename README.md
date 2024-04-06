@@ -65,27 +65,12 @@ All the works are supported and funded by [CUET NLP Lab](https://cuetnlp.com/). 
 ## Citation
 If you use our work please consider citing our paper:
 ```
-@inproceedings{tabassum-etal-2024-sandalphon,
-    title = "Sandalphon@{D}ravidian{L}ang{T}ech-{EACL}2024: Hate and Offensive Language Detection in {T}elugu Code-mixed Text using Transliteration-Augmentation",
-    author = "Tabassum, Nafisa  and
-      Khan, Mosabbir  and
-      Ahsan, Shawly  and
-      Hossain, Jawad  and
-      Hoque, Mohammed Moshiul",
-    editor = "Chakravarthi, Bharathi Raja  and
-      Priyadharshini, Ruba  and
-      Madasamy, Anand Kumar  and
-      Thavareesan, Sajeetha  and
-      Sherly, Elizabeth  and
-      Nadarajan, Rajeswari  and
-      Ravikiran, Manikandan",
-    booktitle = "Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages",
-    month = mar,
-    year = "2024",
-    address = "St. Julian's, Malta",
-    publisher = "Association for Computational Linguistics",
-    url = "https://aclanthology.org/2024.dravidianlangtech-1.28",
-    pages = "167--172",
+@inproceedings{tabassum2024sandalphon,
+  title={Sandalphon@ DravidianLangTech-EACL2024: Hate and Offensive Language Detection in Telugu Code-mixed Text using Transliteration-Augmentation},
+  author={Tabassum, Nafisa and Khan, Mosabbir and Ahsan, Shawly and Hossain, Jawad and Hoque, Mohammed Moshiul},
+  booktitle={Proceedings of the Fourth Workshop on Speech, Vision, and Language Technologies for Dravidian Languages},
+  pages={167--172},
+  year={2024}
 }
 ```
 
